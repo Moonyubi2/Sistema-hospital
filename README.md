@@ -5,12 +5,12 @@ Requisitos previos:
 - pip instalado
 
 Instalación:
-1. Colocar el archivo "codigoproyectofinal3 (1).py" en una carpeta
+1. Colocar el archivo "Sistema_gestion_hospitalario.py" en una carpeta
 2. Instalar dependencia: pip install numpy
 
 Archivos necesarios:
 
 1. Descargar los archivos estado_camas.txt y personal.txt
-2. Poner ambos archivos dentro de la misma carpeta donde se encuentra el codigo "codigoproyectofinal3 (1).py"
+2. Poner ambos archivos dentro de la misma carpeta donde se encuentra el codigo "Sistema_gestion_hospitalario.py"
 3. Ejecutar el codigo 
 
