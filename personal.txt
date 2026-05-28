@@ -1,0 +1,6 @@
+admin1,admin123,admin
+admin2,admin456,admin
+drlopez,medico123,medico
+drmartinez,medico456,medico
+enfermera1,enf123,enfermera
+enfermera2,enf456,enfermera
